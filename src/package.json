@@ -1,6 +1,6 @@
 {
-  "name": "ts-results",
-  "version": "3.3.0",
+  "name": "ts-results-intraloop-fork",
+  "version": "3.3.1",
   "description": "A typescript implementation of Rust's Result and Option objects.",
   "main": "index.js",
   "module": "./esm/index.js",
@@ -27,7 +27,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vultix/ts-results"
+    "url": "https://github.com/gabrielgrover/ts-results"
   },
   "readme": "README.md"
 }
